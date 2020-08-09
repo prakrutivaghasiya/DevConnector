@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://prakruti:prakruti@connartist-gkw0i.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtToken": "mySecretToken",
+	"githubClientId": "5162c886e5253f677e07",
+	"githubClientSecret": "93d4bfb01805ccd405abb0d12769b049161cb352"
+}
